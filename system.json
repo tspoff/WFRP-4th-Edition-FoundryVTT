@@ -179,7 +179,7 @@
   "minimumCoreVersion" : "0.5.1",
   "templateVersion":2,
   "socket": true,
-  "manifest" :  "https://raw.githubusercontent.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT/stable/system.json",
-  "download" :  "https://github.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT/archive/stable.zip",
+  "manifest" :  "https://raw.githubusercontent.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT/0.5.1/system.json",
+  "download" :  "https://github.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT/archive/0.5.1.zip",
   "url" : "https://github.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT"
 }
